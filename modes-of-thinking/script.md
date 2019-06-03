@@ -203,7 +203,6 @@ And we see the same pattern three times, so lets refactor it
 ## Conclusion
 
 If you don't know how to test it, switch to "prototyping".
-If you do know how to test it, make the code "red".
-This is where you initially design the code so that it is easy to test.
+Making the code "red" is where you design the code so that it is easy to test.
 Making the code "green" should be trivially simple because you are not thinking about design.
 Refactoring is where you design the code so that it is easy to maintain.
